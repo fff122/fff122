@@ -1,7 +1,3 @@
 ![Visitor Count](https://profile-counter.glitch.me/fff122/count.svg)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fff122)](https://github.com/fff122/github-readme-stats)<br/>
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+
